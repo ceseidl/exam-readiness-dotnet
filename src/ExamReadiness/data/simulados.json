@@ -1,0 +1,27 @@
+[
+  { "date": "2026-08-03", "results": [
+    { "domain": "Conceitos", "correct": 5, "total": 10 },
+    { "domain": "Segurança", "correct": 5, "total": 12 },
+    { "domain": "Computação", "correct": 5, "total": 10 },
+    { "domain": "Custos", "correct": 4, "total": 8 } ] },
+  { "date": "2026-08-17", "results": [
+    { "domain": "Conceitos", "correct": 6, "total": 10 },
+    { "domain": "Segurança", "correct": 6, "total": 12 },
+    { "domain": "Computação", "correct": 6, "total": 10 },
+    { "domain": "Custos", "correct": 5, "total": 8 } ] },
+  { "date": "2026-08-31", "results": [
+    { "domain": "Conceitos", "correct": 7, "total": 10 },
+    { "domain": "Segurança", "correct": 7, "total": 12 },
+    { "domain": "Computação", "correct": 7, "total": 10 },
+    { "domain": "Custos", "correct": 5, "total": 8 } ] },
+  { "date": "2026-09-14", "results": [
+    { "domain": "Conceitos", "correct": 8, "total": 10 },
+    { "domain": "Segurança", "correct": 8, "total": 12 },
+    { "domain": "Computação", "correct": 8, "total": 10 },
+    { "domain": "Custos", "correct": 6, "total": 8 } ] },
+  { "date": "2026-09-28", "results": [
+    { "domain": "Conceitos", "correct": 8, "total": 10 },
+    { "domain": "Segurança", "correct": 9, "total": 12 },
+    { "domain": "Computação", "correct": 8, "total": 10 },
+    { "domain": "Custos", "correct": 6, "total": 8 } ] }
+]

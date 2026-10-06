@@ -1,0 +1,10 @@
+{
+  "name": "Exame Exemplo de Nuvem (fictício)",
+  "passingScore": 70,
+  "domains": [
+    { "name": "Conceitos", "weight": 25 },
+    { "name": "Segurança", "weight": 30 },
+    { "name": "Computação", "weight": 25 },
+    { "name": "Custos", "weight": 20 }
+  ]
+}
